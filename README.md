@@ -15,3 +15,7 @@ Same will be done for the meter at the transformer side and then the power diffe
 ![](https://github.com/pingala2/smart-meter/blob/master/output/Screenshot%20from%202018-08-04%2008-40-06.png)
 
 ![](https://github.com/pingala2/smart-meter/blob/master/output/Screenshot%20from%202018-08-04%2009-47-49.png)
+
+![](https://i.ibb.co/2PmzXXy/IMG-20180916-184926-1.jpg)
+
+![](https://i.ibb.co/xYR7CNm/IMG-20180916-184948-1.jpg)
