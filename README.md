@@ -1,4 +1,4 @@
-# smart-meter
+# smart-IOT-based- Electric-meter
 
 The aim of the project is to digitalise the electricity meter in our home. We are measuring the total power being consumed by every household and compare it to the power consumed from the transformer. 
 
